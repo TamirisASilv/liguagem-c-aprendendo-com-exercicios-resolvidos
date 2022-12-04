@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1670075876 source:e:\liguagem-c-aprendendo-com-exercicios-resolvidos\3.4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
